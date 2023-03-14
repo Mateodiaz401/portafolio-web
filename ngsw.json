@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "favicon.ico",
-        "index.html",
-        "main.1d762306de5c89e4.js",
-        "manifest.webmanifest",
-        "polyfills.d796f35ebb743097.js",
-        "runtime.c8ee7cb063cd0290.js",
-        "styles.f06444b111a1f062.css"
+        "./favicon.ico",
+        "./index.html",
+        "./main.1d762306de5c89e4.js",
+        "./manifest.webmanifest",
+        "./polyfills.d796f35ebb743097.js",
+        "./runtime.c8ee7cb063cd0290.js",
+        "./styles.f06444b111a1f062.css"
       ],
       "patterns": []
     },
